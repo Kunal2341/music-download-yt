@@ -11,5 +11,7 @@ Run the following in your terminal after cloning the respository
 The run one of the multiple options within the `.ipynb` file. 
 
 **Created**: `Jan 2021` 
+
 **Author**: `Kunal Aneja`
+
 **Contact**: `kunal.aneja101@gmail.com`
