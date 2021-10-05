@@ -1,0 +1,4 @@
+youtube-dl==2021.4.26
+pytube==11.0.1
+beautifulsoup4==4.9.3
+requests==2.25.0
